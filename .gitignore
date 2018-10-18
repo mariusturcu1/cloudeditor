@@ -3,3 +3,6 @@ package-lock.json
 mix-manifest.json
 launch.json
 yarn.lock
+package-lock.json
+.vscode/launch.json
+public/mix-manifest.json
